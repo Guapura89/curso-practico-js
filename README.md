@@ -1,1 +1,1 @@
-# Curso prctico de JS | Fuguras geometrica🟥🟢🔷
+# Curso prctico de JS | Fuguras geometricas 🟥🟢🔷
